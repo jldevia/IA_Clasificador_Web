@@ -1,0 +1,1466 @@
+3d printer	
+3g	
+404 error	
+4g	
+4k	
+802.11a	
+802.11ac	
+802.11b	
+802.11g	
+802.11n
+abend	
+abstraction	
+access	
+access point	
+accessibility	
+acl	
+activation key	
+active cell	
+active directory	
+active-matrix	
+activex	
+ad hoc network	
+adapter	
+adaptive content	
+adc	
+add-on	
+address bar	
+adf	
+adsl	
+adware	
+affiliate	
+afp	
+agp	
+ai	
+aix	
+ajax	
+alert box	
+alexa	
+algorithm	
+alpha software	
+alu	
+analog	
+android	
+animated gif	
+angular	
+angularjs	
+anr	
+ansi	
+anti-aliasing	
+antivirus	
+apache	
+apfs	
+api	
+apis	
+app	
+apple	
+applet	
+application	
+applications	
+application server	
+apu	
+archie	
+architecture	
+archive	
+archive bit	
+archlinux	
+arp	
+array	
+artificial intelligence	
+ascii	
+aso	
+asp	
+asp.net	
+aspect ratio	
+assembler	
+assembly language	
+assistive technology	
+ata	
+atm	
+attachment	
+atx	
+augmented reality	
+aup	
+authentication	
+autocomplete	
+autocorrect	
+autofill	
+autoresponder	
+autowired	
+avatar	
+avr	
+azure	
+aws	
+backbone	
+backlink	
+backside bus	
+backup	
+bandwidth	
+banner ad	
+barcraft	
+bare metal	
+bare metal restore	
+barebones	
+base station	
+baseband	
+bash	
+basic	
+batch file	
+batch process	
+baud	
+beans	
+bcc	
+beta software	
+big data	
+binary	
+bing	
+biometrics	
+bios	
+bit	
+bitcoin	
+bitmap	
+bitrate	
+bittorrent	
+blacklist
+blazor	
+ble	
+bloatware	
+blob	
+blockchain	
+blog	
+blu-ray	
+bluetooth	
+bmp	
+bookmark	
+boolean	
+boot	
+boot disk	
+boot sector	
+boot sequence	
+bootstrap	
+bot	
+botnet	
+bounce	
+bps	
+breadcrumbs	
+bricking	
+bridge	
+broadband	
+brouter	
+brownfield	
+brute force attack	
+bsod	
+buffer	
+bug	
+burn	
+bus	
+byte	
+bytecode	
+bézier curve
+c#	
+c
+c++	
+cable management	
+cable modem	
+cache	
+cad	
+camelcase	
+camera raw	
+can	
+caps lock	
+captcha	
+card reader	
+cc	
+ccd	
+cd	
+cd-r	
+cd-rom	
+cd-rw	
+cd/ci	
+cdfs	
+cdma	
+cdn	
+cell	
+cell reference	
+certificate	
+cgi	
+character	
+character encoding
+chatbot	
+checksum	
+chip	
+chipset	
+chromebook	
+cifs	
+circuit	
+cisc	
+class	
+clean install	
+clean room	
+client	
+client-server model	
+clip art	
+clipboard	
+clob	
+clock cycle	
+clock speed	
+clone	
+cloud	
+cloud computing	
+cluster	
+cmos	
+cms	
+cmyk	
+coaxial cable	
+cobol	
+codec	
+cold boot	
+collision	
+column	
+command line interface	
+command prompt	
+commercial software	
+compact flash	
+compile	
+compiler	
+component	
+compression	
+computer	
+computer ethics	
+computer science	
+configuration	
+console	
+constant	
+container	
+contextual menu	
+control panel	
+controller card	
+cookie	
+copy	
+copyright	
+copyright infringement	
+cpa	
+cpc	
+cpl	
+cpm	
+cps	
+cpu	
+crash	
+crm	
+cron	
+crop	
+cross-browser	
+crossplatform	
+crt	
+cryptography	
+crud	
+css	
+ctp	
+ctr	
+cuda	
+cursor	
+cut	
+cyberbullying	
+cybercrime	
+cyberspace	
+cybersquatter	
+cybersecurity	
+dac	
+daemon	
+dark mode	
+das	
+dashboard	
+data	
+data management	
+data mining	
+data science	
+data transfer rate	
+data type	
+database	
+datagram	
+daw	
+dbms	
+dcim	
+ddl	
+ddr	
+ddr2	
+ddr3	
+ddr4	
+deadlock	
+debug	
+debugger	
+debugging	
+default	
+default program	
+defragment	
+degauss	
+del.icio.us	
+delete	
+denary	
+denial of service	
+deprecated	
+design pattern	
+desk checking	
+desktop	
+desktop computer	
+desktop publishing	
+developer	
+devops	
+dfs	
+dhcp	
+dial-up	
+dialog box	
+digital	
+digital asset	
+digital camera	
+digital footprint	
+digital signature	
+digitize	
+dimm	
+diode	
+direct digital marketing	
+direct3d	
+directory	
+directx	
+disk drive	
+disk image	
+dithering	
+dkim	
+dlc	
+dll	
+dma	
+dmz	
+dns	
+dns record	
+dock
+docker	
+docking station	
+document	
+document grinding	
+domain	
+domain name	
+domain suffix	
+donationware	
+dongle	
+dos	
+dot matrix	
+dot pitch	
+double click	
+download	
+downtime	
+dpi	
+drag	
+drag and drop	
+dram	
+drive	
+drive-by download	
+driver	
+drm	
+drop down menu	
+dsl	
+dslam	
+dtd	
+dual boot	
+dual processor	
+dual-core	
+dut	
+dv	
+dvd	
+dvd+r	
+dvd+rw	
+dvd-r	
+dvd-ram	
+dvd-rw	
+dvi	
+dvorak keyboard	
+dvr	
+dynamic website
+e-commerce	
+e-learning	
+e-mail bankruptcy	
+e-reader	
+ebook	
+ecc	
+edi	
+edr	
+edutainment	
+egpu	
+eide	
+el capitan	
+email	
+email address	
+email bomb	
+emoji	
+emoticon	
+emulation	
+encoding	
+encryption	
+end user	
+endianness	
+endpoint	
+enterprise	
+enum	
+eol	
+eps	
+ergonomics	
+esata	
+escape key	
+esports	
+ethernet	
+eup	
+exabyte	
+exbibyte	
+excel	
+exception	
+executable file	
+exif	
+expansion card	
+export	
+extensible	
+external hard drive	
+extranet
+facebook	
+faq	
+fat32	
+favicon	
+favorites	
+fddi	
+fiber optic cable	
+field	
+fifo	
+file	
+file association	
+file compression	
+file extension	
+file format	
+file server	
+file system	
+file type	
+filename	
+filo	
+filter	
+finder	
+fios	
+firewall	
+firewire	
+firmware	
+flag	
+flaming	
+flash	
+flash drive	
+flash memory	
+flat file	
+flatbed	
+flexible	
+floating point	
+floppy disk	
+flops	
+flowchart	
+fluid layout	
+folder	
+font	
+font case	
+footer	
+format	
+formula	
+fpga	
+fps	
+fpu	
+fqdn	
+fragmentation	
+frame	
+framework	
+freeware	
+frequency	
+friend	
+friendly url	
+frozen	
+fsb	
+ftp	
+full-duplex	
+function	
+function key
+gamma correction	
+garbage collection	
+gateway	
+gbps	
+gdpr	
+gibibyte	
+gif	
+gigabit	
+gigabyte	
+gigaflops	
+gigahertz	
+gigo	
+gitops	
+gis	
+gnu	
+gnutella	
+go
+golang
+golden master	
+goodput	
+google
+google drive	
+gopher	
+gpgpu	
+gpio	
+gps	
+gpu	
+graphics	
+graymail	
+grayscale	
+greenfield	
+grep	
+grid computing	
+gui	
+guid
+hacker	
+half-duplex	
+halftone	
+handle	
+handshake	
+hard copy	
+hard disk	
+hard drive	
+hard token	
+hardware	
+hash	
+hashtag	
+hdd	
+hdmi	
+hdr	
+hdtv	
+hdv	
+header	
+headphones	
+heap	
+heartbleed	
+heat sink	
+hertz	
+heuristic	
+hexadecimal	
+hfs	
+hibernate	
+high sierra	
+high-level language	
+hit	
+home page	
+honeypot	
+horizontal market software	
+host	
+hostname	
+hot swappable	
+hotfix	
+hover	
+hsf	
+html	
+html5	
+http	
+https	
+hub	
+hyper-threading	
+hyperlink	
+hypermedia	
+hypertext	
+hypervisor
+i/o	
+i/o address	
+ibm compatible	
+icann	
+icf	
+icloud	
+icmp	
+icon	
+icq	
+ics	
+ict	
+ide	
+ids	
+ieee	
+iframe	
+igp	
+iis	
+illegal operation	
+im	
+image scaling	
+imap	
+imei	
+impact printer	
+import	
+impression	
+inbox	
+index	
+influencer	
+infotainment	
+inkjet	
+inode	
+input	
+input device	
+insertion point	
+instagram	
+install	
+installer	
+integer	
+integrated	
+integrated circuit
+integration	
+intellectual property	
+interactive video	
+interface	
+interlaced	
+internal hard drive	
+internet	
+internet of things	
+internic	
+interpreter	
+interrupt	
+intranet	
+iops	
+ios	
+ip	
+ip address	
+ipad	
+iphone	
+ipod	
+ips	
+ipv4	
+ipv6	
+ipx	
+irc	
+irq	
+irrational number	
+isa	
+iscsi	
+isdn	
+iso	
+isp	
+isr	
+it	
+iteration	
+itil	
+itunes	
+ivr	
+java	
+javascript	
+jdbc	
+jfs	
+jitter	
+joystick	
+jpeg	
+jquery	
+jre	
+jsf	
+json	
+jsp	
+jumper	
+jvm	
+kafka	
+kbps	
+kde	
+kernel	
+kerning	
+keyboard	
+keyboard shortcut	
+keylogger	
+keystroke	
+keywords	
+kibibyte	
+kilobit	
+kilobyte	
+kilohertz	
+kindle	
+koffice	
+kotlin	
+kvm switch	
+kubernetes	
+lag	
+lamp	
+lambda	
+lan	
+laptop	
+laser printer	
+latency	
+lazy loading	
+lcd	
+ldap	
+lead	
+leaderboard	
+leading	
+leaf	
+led	
+leet	
+left-click	
+leopard	
+lfn	
+lifo	
+lightning	
+link	
+linkedin	
+linux	
+lion	
+listserv	
+live streaming	
+load balancing	
+localhost	
+log file	
+log on	
+logic error	
+logic gate	
+login	
+long	
+loop	
+lossless	
+lossy	
+low-level language	
+lpi	
+lte	
+lua	
+lun
+mac address	
+mac os	
+machine language	
+machine learning	
+macintosh	
+macro	
+mail server	
+mainframe	
+malware	
+mamp	
+man	
+manet	
+margin	
+markup language	
+mashup	
+matrix	
+mavericks	
+maximize	
+mbps	
+mbr	
+mca	
+mdi	
+mebibyte	
+media	
+media compression	
+media queries	
+megabit	
+megabyte	
+megahertz	
+megapixel	
+meme	
+memory	
+memory bank	
+memory leak	
+memory module	
+memory stick	
+menu bar	
+meta search engine	
+meta tag	
+metadata	
+metafile	
+method	
+mhl	
+microblogging	
+microcomputer	
+microkernel	
+micron	
+microphone	
+microsoft	
+middleware	
+midi	
+mini dv	
+minicomputer	
+minification	
+minimize	
+minisite	
+mips	
+mirror	
+mirrored volume	
+mis	
+mixed reality	
+mms	
+mnemonic	
+mobile	
+modem	
+modifier key	
+mojave	
+molex connector	
+monitor	
+monochrome	
+moodle	
+motherboard	
+motion tween	
+mount	
+mountain lion	
+mouse	
+mouse pad	
+mp3	
+mpeg	
+mtu	
+mule	
+mulesoft	
+multi-core	
+multicasting	
+multimedia	
+multiplatform	
+multiprocessing	
+multitasking	
+multithreading	
+mvc	
+myspace	
+mysql
+n-key rollover	
+name server	
+namespace	
+nan	
+nand	
+nanometer	
+nas	
+nat	
+native file	
+natural number	
+navigation bar	
+netbios	
+netiquette	
+netmask	
+network	
+network topology	
+newbie	
+newline	
+newsgroup	
+nfc	
+nfs	
+nic	
+nino	
+nms	
+nntp	
+noc	
+node	
+non-impact printer	
+non-volatile memory	
+northbridge	
+nos	
+nosql	
+npm	
+nsp	
+ntfs	
+ntp	
+nui	
+null	
+null character	
+num lock	
+nvram	
+nybble
+oasis	
+object	
+ocr	
+odbc	
+oem	
+office	
+offline	
+olap	
+ole	
+oled	
+online	
+oop	
+opacity	
+open firmware	
+open source	
+opencl	
+opengl	
+operating system	
+optical carrier	
+optical drive	
+optical media	
+os x	
+osd	
+osi model	
+ospf	
+ota	
+ott	
+outbox	
+output	
+output device	
+overclocking	
+overwrite
+p2p	
+packet	
+page fault	
+page layout	
+page orientation	
+page view	
+pan	
+parallel port	
+parameter	
+parity	
+parity bit	
+parked domain	
+parse	
+partition	
+pascalcase	
+passcode	
+passive-matrix	
+passphrase	
+password	
+paste	
+path	
+payload	
+pc	
+pcb	
+pci	
+pci express	
+pci-x	
+pcmcia	
+pda	
+pdf	
+pdu	
+pebibyte	
+penetration	
+peopleware	
+peripheral	
+perl	
+permalink	
+personal url	
+petabyte	
+petaflops	
+pharming	
+phishing	
+php	
+phreaking	
+piconet	
+pim	
+ping	
+pinterest	
+pipeline	
+piracy	
+pixel	
+plagiarism	
+plain text	
+platform	
+plotter	
+plug and play	
+plug-in	
+pmu	
+png	
+podcast	
+poe	
+pon	
+pop-up	
+pop3	
+port	
+portable software	
+portal	
+post	
+postscript	
+power cycle	
+power supply	
+power user	
+powerpoint	
+ppc	
+ppga	
+ppi	
+ppl	
+ppm	
+ppp	
+pppoe	
+pps	
+pptp	
+pram	
+prebinding	
+pretest	
+primary key	
+primary memory	
+primitive	
+print server	
+printer	
+process	
+processing	
+processor	
+processor core	
+program	
+programming language	
+progressive scan	
+projector	
+prom	
+proprietary software	
+protocol	
+proxy server	
+ps/2	
+pseudocode	
+public domain	
+pum	
+pup	
+push	
+python	
+qbe	
+qr code	
+quad-core	
+query	
+queue	
+quicktime	
+qwerty
+race condition	
+radcab	
+raid	
+ram	
+ransomware	
+raster graphic	
+rational number	
+raw data	
+raw file	
+rdbms	
+rdf	
+rdram
+react
+reactjs
+react.js	
+read-only	
+readme	
+real number	
+real-time	
+reciprocal link	
+record	
+recursion	
+recursive function	
+recycle bin	
+redundancy	
+refresh	
+refresh rate	
+register	
+registry	
+regular expression	
+reimage	
+relational database	
+remote access	
+remote desktop	
+remote user	
+rendering	
+repeater	
+repository	
+resistor	
+resolution	
+responsive web design
+rest	
+resttemplate	
+restore	
+retina display	
+rfid	
+rgb	
+ribbon	
+rich text	
+right click	
+rip	
+ripcording	
+ripping	
+risc	
+rj45	
+rom	
+root	
+root directory	
+rootkit	
+rosetta	
+router	
+row	
+rpc	
+rpm	
+rss	
+rte	
+rtf	
+rtmp	
+ruby	
+runtime	
+runtime error	
+rup
+saas	
+safe mode	
+samba	
+sample	
+sample rate	
+sampling	
+san	
+sandboxing	
+sass	
+sata	
+scalable	
+scanner	
+scareware	
+schema	
+scraping	
+screen burn	
+screen tearing	
+screenshot	
+script	
+scroll bar	
+scroll wheel	
+scrolling	
+scsi	
+sd	
+sdk	
+sdlc	
+sdram	
+sds	
+sdsl	
+search engine	
+secondary memory	
+secondary storage	
+sector	
+security	
+securing	
+secure	
+seed	
+semaphore	
+seo	
+serial number	
+serial port	
+serp	
+server	
+service pack	
+servlet	
+session	
+set	
+sharepoint	
+shareware	
+shell	
+shift key	
+sidebar	
+sierra	
+silent install	
+sim card	
+simm	
+simplex	
+sip	
+site map	
+skin	
+sku	
+skyscraper	
+sla	
+slashdot	
+sli	
+smart	
+smart home	
+smartphone	
+smartwatch	
+smb	
+smishing	
+smm	
+smp	
+sms	
+smtp	
+snapchat	
+snapshot	
+snippet	
+snmp	
+snow leopard	
+so-dimm	
+soa	
+soap	
+soc	
+social engineering	
+social media	
+social networking	
+socket	
+soft copy	
+soft token	
+software	
+solid state	
+sound card	
+source code	
+southbridge	
+spam	
+speakers	
+speech recognition	
+spellcheck	
+spf	
+spider	
+spoofing	
+spool	
+spooling	
+spreadsheet	
+sprite
+spring	
+spx	
+spyware	
+sql	
+sram	
+sre	
+srgb	
+srm	
+ssd	
+ssh	
+ssid	
+ssl	
+stack	
+standalone	
+standby	
+start menu	
+static website	
+status bar	
+steganography	
+storage capacity	
+storage device	
+streaming	
+string	
+struct	
+stylus	
+subdirectory	
+subnet mask	
+subscript	
+supercomputer	
+superscalar	
+superscript	
+surface	
+surge protector	
+swap file	
+swift	
+swipe	
+switch	
+symbolic link	
+syn flood	
+sync	
+syntax	
+syntax error	
+system analyst	
+system call	
+system hardening	
+system preferences	
+system requirements	
+system resources	
+system software	
+system unit	
+systray
+t1	
+t3	
+tab	
+table	
+tablet	
+tag	
+tape drive	
+target disk mode	
+task bar	
+tcp	
+tcp/ip	
+tebibyte	
+technology services	
+telecommunications	
+teleconference	
+telehealth	
+telnet	
+template	
+testing	
+tester	
+testers	
+terabyte	
+teraflops	
+terahertz	
+terminal	
+text alignment	
+text box	
+text editor	
+tft	
+tftp	
+thermistor	
+thick client	
+thin client	
+third party	
+thread
+threaded	
+throughput	
+thumbnail	
+thunderbolt	
+thyristor	
+tiff	
+tiger	
+title bar	
+toggle key	
+token	
+toolbar	
+toolchain	
+tooltip	
+torrent	
+toslink	
+touchpad	
+touchscreen	
+traceroute	
+trackback	
+trackball	
+tracking	
+transistor	
+trash	
+trim	
+trinitron	
+trojan horse	
+troll	
+troubleshooting	
+truncate	
+ttl	
+tumblr	
+tunneling	
+tutorial	
+twain	
+tweak	
+tweet	
+twitter	
+typecasting	
+typeface
+tyscript
+u	
+uat	
+uddi	
+udp	
+uefi	
+ugc	
+uicc	
+ultra dma	
+ultrabook	
+uml	
+unc	
+undo	
+unfriend	
+unicode	
+unix	
+unmount	
+upc	
+upload	
+upnp	
+ups	
+uptime	
+uri	
+url	
+usb	
+usb-c	
+usenet	
+user experience	
+user interface	
+user space	
+user-friendly	
+username	
+utf	
+utility	
+uwp
+vaporware	
+variable	
+vci	
+vdsl	
+vdu	
+vector	
+vector graphic	
+veronica	
+version control	
+vertical market software	
+vfat	
+vga	
+video card	
+vip	
+viral	
+virtual machine	
+virtual memory	
+virtual reality	
+virtualization	
+virus	
+virus definition	
+visual basic	
+vlan	
+vlb	
+vle	
+vlog	
+voip	
+volatile memory	
+volume	
+vpi	
+vpn	
+vps	
+vram	
+vrml	
+vue	
+vuejs	
+vue.js	
+vulnerability	
+vulnerabilities	
+w3c	
+wais	
+wamp	
+wan	
+wardriving	
+warm boot	
+wave	
+waveform	
+wavelength	
+wddm	
+web 2.0	
+web application	
+web beacon	
+web browser	
+web design	
+web development	
+web forum	
+web host	
+web page	
+web publishing	
+web ring	
+web server	
+web service	
+webcam	
+webhook	
+webmail	
+webmaster	
+website	
+webclient	
+wep	
+white balance	
+white paper	
+whitelist	
+whois	
+whole number	
+wi-fi	
+widget	
+wiki	
+wildcard	
+wimax	
+wimp	
+win32	
+window	
+windows	
+windows 10	
+windows 7	
+windows 8	
+windows rt	
+windows vista	
+windows xp	
+wins	
+winsock	
+wired	
+wireframe	
+wireless	
+wizard	
+wlan	
+word	
+word processor	
+word wrap	
+wordart	
+wordpress	
+workstation	
+worm	
+wpa	
+wpan	
+wrapper	
+www	
+wysiwyg
+x86	
+xaml	
+xhtml	
+xml	
+xmp	
+xslt
+y2k	
+yarn
+yahoo	
+yobibyte	
+yosemite	
+yottabyte	
+youtube
+zebibyte	
+zero day exploit	
+zettabyte	
+zif	
+zip	
+zone file

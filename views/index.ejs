@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Clasificador Web</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <%- include('head') %>
+    </header>
+    <main role="main">
+      <div class="container-fluid">
+        <div class="card mb-3">
+          <h5 class="card-header text-white bg-info">
+            <strong
+              >Clasificador de paginas web - Sobre temas de informática y en
+              ingles</strong
+            >
+          </h5>
+          <div class="card-body px-lg-5 min-vh-100">
+            <form action="/do" method="POST">
+              <div class="form-group">
+                <label for="txtUrl">Url</label>
+                <div class="row">
+                  <div class="col">
+                    <input
+                      type="text"
+                      id="txtUrl"
+                      name="inputUrl"
+                      value=""
+                      class="form-control"
+                    />
+                  </div>
+                  <div class="col">
+                    <input
+                      type="submit"
+                      value="Consultar"
+                      name="btnClasificar"
+                      class="btn btn-primary"
+                    />
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <% if (result) { %>
+        <div class="alert alert-success" role="alert">
+          <strong>Resultado:</strong>
+          <ul>
+            <li><strong> Topic: <%= result.topic %></strong></li>
+            <li><strong> Score: <%= result.score %></strong></li>
+          </ul>
+        </div>
+        <%}%> <% if (errors) { %>
+        <div class="alert alert-danger" role="alert">
+          <ul>
+            <% errors.forEach( function(error){ %>
+            <li><%= error.msg%></li>
+            <% }) %>
+          </ul>
+        </div>
+        <% } %>
+      </div>
+    </main>
+    <footer>
+      <%- include('footer') %>
+    </footer>
+  </body>
+</html>

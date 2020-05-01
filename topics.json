@@ -1,0 +1,70 @@
+[
+  {
+    "topic": "programming",
+    "title": "Programming"
+  },
+  {
+    "topic": "mobile",
+    "title": "Mobile"
+  },
+  {
+    "topic": "web_development",
+    "title": "Web Development"
+  },
+  {
+    "topic": "devops",
+    "title": "DevOps"
+  },
+  {
+    "topic": "cloud",
+    "title": "Cloud"
+  },
+  {
+    "topic": "iot",
+    "title": "IoT - Internet of Things"
+  },
+  {
+    "topic": "ia",
+    "title": "Intelligence Artificial"
+  },
+  {
+    "topic": "data_analytics",
+    "title": "Data Analytics"
+  },
+  {
+    "topic": "database",
+    "title": "DataBase"
+  },
+  {
+    "topic": "security",
+    "title": "Security"
+  },
+  {
+    "topic": "so",
+    "title": "Operating Systems"
+  },
+  {
+    "topic": "net",
+    "title": "Networking"
+  },
+  {
+    "topic": "integration",
+    "title": "Integration"
+  },
+  {
+    "topic": "sof_engineering",
+    "title": "Software Engineering"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Blockchain"
+  },
+  {
+    "topic": "hardware",
+    "title": "Hardware"
+  },
+  {
+    "topic": "testing",
+    "title": "Testing"
+  }
+]

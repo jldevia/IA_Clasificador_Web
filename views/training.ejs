@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Training Clasification Web</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <%- include('head') %>
+    </header>
+    <main>
+      <div class="container-fluid">
+        <div class="card mb-3">
+          <h5 class="card-header text-white bg-info">
+            <strong>Generador de casos de entrenamiento</strong>
+          </h5>
+
+          <div class="card-body px-lg-5">
+            <form action="/doTraining" method="POST" id="formTraining">
+              <h5
+                class="card-title"
+                style="border-bottom-style: solid; border-width: 2px;"
+              >
+                Análisis de URL
+              </h5>
+              <div class="form-group">
+                <label for="txtUrl">Url</label>
+                <div class="row">
+                  <div class="col">
+                    <input
+                      type="text"
+                      id="txtUrl"
+                      name="inputUrl"
+                      class="form-control"
+                    />
+                  </div>
+                  <div class="col">
+                    <input
+                      type="submit"
+                      value="Analizar"
+                      name="actionBtn"
+                      class="btn btn-primary"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <% if (data.url) { %>
+                <div class="alert alert-success" role="alert">
+                  <strong>Url analizada: <%= data.url %></strong>
+                </div>
+                <%}%>
+                <label for="inputTitle">Title</label>
+                <input
+                  type="text"
+                  name="inputTitle"
+                  id="inputTitle"
+                  style="display: block;"
+                  value="<%= data.title %>"
+                  class="form-control"
+                  readonly
+                />
+
+                <label for="inputKeywords">Keywords</label>
+                <input
+                  type="text"
+                  name="inputKeywords"
+                  id="inputKeywords"
+                  style="display: block;"
+                  value="<%= data.keywords %>"
+                  class="form-control"
+                  readonly
+                />
+
+                <label for="inputDescription">Description</label>
+                <input
+                  type="text"
+                  name="inputDescription"
+                  id="inputDescription"
+                  style="display: block;"
+                  value="<%= data.description %>"
+                  class="form-control"
+                  readonly
+                />
+              </div>
+              <br />
+              <h5
+                class="card-title"
+                style="border-bottom-style: solid; border-width: 2px;"
+              >
+                Clasificación de URL
+              </h5>
+              <div class="form-group">
+                <% if (topics){ %>
+                <label for="listTopics">Topic</label>
+
+                <div class="row">
+                  <div class="col">
+                    <select
+                      name="listTopics"
+                      id="listTopics"
+                      class="custom-select mr-sm-2"
+                      form="formTraining"
+                    >
+                      <% topics.forEach( (item) => { %>
+                      <option value="<%= item.topic %>">
+                        <%=item.title %>
+                      </option>
+                      <%});%>
+                    </select>
+                  </div>
+                  <div class="col">
+                    <input
+                      type="submit"
+                      value="Clasificar"
+                      name="actionBtn"
+                      class="btn btn-success"
+                    />
+                  </div>
+                </div>
+                <%}%>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <% if (errors) { %>
+        <div class="alert alert-danger" role="alert">
+          <ul>
+            <% errors.forEach( function(error){ %>
+            <li><%= error.msg%></li>
+            <% }) %>
+          </ul>
+        </div>
+        <% } %>
+      </div>
+    </main>
+    <footer>
+      <%- include('footer') %>
+    </footer>
+  </body>
+</html>
