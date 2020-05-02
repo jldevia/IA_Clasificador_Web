@@ -26,3 +26,6 @@ https://dzone.com/articles/arrays-in-cc
 https://dzone.com/articles/7-best-practices-for-building-performant-data-intensive-apps-webinar
 https://dzone.com/articles/resttemplate-vs-webclient
 https://dzone.com/articles/i-took-a-cobol-course-and-i-liked-it
+https://dzone.com/articles/state-transitions-with-web-components
+https://dzone.com/articles/a-tutorial-on-firebase-hosting
+https://dzone.com/articles/css-flexbox-basics-part-1

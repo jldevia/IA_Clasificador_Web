@@ -34,3 +34,6 @@ case([],[software,devops,database,mobile,data,cloud,'c++',array,tutorial],['c++'
 case([data],[software,devops,database,mobile,data,cloud,application,architecture],[applications,app,architecture,devops],devops).
 case([resttemplate,webclient,java],[software,devops,java,database,mobile,data,cloud,resttemplate,webclient,api,spring,boot,client],[spring,client,resttemplate,webclient],web_development).
 case([cobol,it],[software,devops,java,database,mobile,data,cloud,cobol,mainframe],[developer,cobol],programming).
+case([web,components],[software,devops,java,web,database,mobile,data,cloud,components,javascript,app,mvc,interface],[web,components,ui,application],web_development).
+case([tutorial,firebase,hosting,web],[software,devops,java,web,database,mobile,data,cloud,firebase,applications,tutorial,hosting],[hosting,application,firebase],web_development).
+case([css,flexbox,web],[software,devops,java,web,database,mobile,data,cloud,css,flexbox],[css,flexbox],web_development).

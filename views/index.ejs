@@ -15,7 +15,7 @@
       <%- include('head') %>
     </header>
     <main role="main">
-      <div class="container-fluid">
+      <div class="container-fluid min-vh-100">
         <div class="card mb-3">
           <h5 class="card-header text-white bg-info">
             <strong
@@ -23,7 +23,7 @@
               ingles</strong
             >
           </h5>
-          <div class="card-body px-lg-5 min-vh-100">
+          <div class="card-body px-lg-5">
             <form action="/do" method="POST">
               <div class="form-group">
                 <label for="txtUrl">Url</label>
@@ -55,6 +55,7 @@
         <div class="alert alert-success" role="alert">
           <strong>Resultado:</strong>
           <ul>
+            <li><strong> Url: <%= result.url %></strong></li>
             <li><strong> Topic: <%= result.topic %></strong></li>
             <li><strong> Score: <%= result.score %></strong></li>
           </ul>

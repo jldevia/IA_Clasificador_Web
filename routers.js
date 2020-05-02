@@ -54,6 +54,14 @@ router.post('/do', [check('inputUrl').isURL().withMessage('URL inválida.')], (r
 					})
 				}
 
+				let index = topics.findIndex(item => item.topic === result.topic);
+
+				if (index !== -1) {
+					result.topic = topics[index].title;
+				}
+
+				result.url = url;
+
 				res.render('index.ejs', {
 					errors: null,
 					result: result

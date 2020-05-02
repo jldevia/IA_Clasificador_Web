@@ -197,6 +197,7 @@ cisc
 class	
 clean install	
 clean room	
+cli	
 client	
 client-server model	
 clip art	
@@ -224,6 +225,7 @@ compact flash
 compile	
 compiler	
 component	
+components	
 compression	
 computer	
 computer ethics	
@@ -441,6 +443,7 @@ filo
 filter	
 finder	
 fios	
+firebase	
 firewall	
 firewire	
 firmware	
@@ -452,6 +455,7 @@ flash memory
 flat file	
 flatbed	
 flexible	
+flexbox	
 floating point	
 floppy disk	
 flops	
@@ -549,6 +553,7 @@ home page
 honeypot	
 horizontal market software	
 host	
+hosting	
 hostname	
 hot swappable	
 hotfix	
@@ -1309,6 +1314,7 @@ uddi
 udp	
 uefi	
 ugc	
+ui	
 uicc	
 ultra dma	
 ultrabook	
@@ -1386,6 +1392,7 @@ wave
 waveform	
 wavelength	
 wddm	
+web	
 web 2.0	
 web application	
 web beacon	
