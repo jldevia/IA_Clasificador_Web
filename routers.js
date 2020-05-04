@@ -1,5 +1,4 @@
 const express = require("express");
-const url = require('url');
 const util = require('./util');
 const { check, validationResult } = require('express-validator');
 const procUrl = require('./ProcessUrl');
@@ -112,6 +111,20 @@ router.post('/doTraining', [check('inputUrl').isURL().withMessage('URL inválida
 			keywords: req.body.inputKeywords,
 			description: req.body.inputDescription,
 			topic: req.body.listTopics
+		}
+
+		let properties = objData.title + objData.keywords + objData.description;
+
+		if (properties === null || properties === "") {
+			let err = [{
+				msg: 'Se debe especificar alguna carácteristica ("title", "keywords" o "description")'
+					+ ' de la pagina para poder clasificarla.'
+			}]
+			return res.status(422).render('training.ejs', {
+				errors: err,
+				data: objData,
+				topics: topics
+			});
 		}
 
 		if (req.body.listTopics === "") {
