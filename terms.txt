@@ -57,7 +57,6 @@ apple
 applet	
 application	
 applications	
-application server	
 apu	
 archie	
 architecture	
@@ -91,7 +90,10 @@ avatar
 avr	
 azure	
 aws	
+back	
 backbone	
+backend	
+back-end	
 backlink	
 backside bus	
 backup	
@@ -296,12 +298,13 @@ default
 default program	
 defragment	
 degauss	
+deep	
 del.icio.us	
 delete	
 denary	
 denial of service	
 deprecated	
-design pattern	
+design	
 desk checking	
 desktop	
 desktop computer	
@@ -500,8 +503,8 @@ gitops
 gis	
 gnu	
 gnutella	
-go
-golang
+go	
+golang	
 golden master	
 goodput	
 google
@@ -549,6 +552,7 @@ hibernate
 high sierra	
 high-level language	
 hit	
+hooks	
 home page	
 honeypot	
 horizontal market software	
@@ -607,6 +611,7 @@ instagram
 install	
 installer	
 integer	
+intel	
 integrated	
 integrated circuit
 integration	
@@ -693,6 +698,7 @@ lead
 leaderboard	
 leading	
 leaf	
+learning	
 led	
 leet	
 left-click	
@@ -710,6 +716,7 @@ load balancing
 localhost	
 log file	
 log on	
+logic	
 logic error	
 logic gate	
 login	
@@ -725,7 +732,7 @@ lun
 mac address	
 mac os	
 machine language	
-machine learning	
+machine	
 macintosh	
 macro	
 mail server	
@@ -786,6 +793,8 @@ mixed reality
 mms	
 mnemonic	
 mobile	
+model	
+models	
 modem	
 modifier key	
 mojave	
@@ -837,10 +846,13 @@ nfc
 nfs	
 nic	
 nino	
+nlp	
 nms	
 nntp	
 noc	
 node	
+nodejs	
+node.js	
 non-impact printer	
 non-volatile memory	
 northbridge	
@@ -867,6 +879,7 @@ olap
 ole	
 oled	
 online	
+oneapi	
 oop	
 opacity	
 open firmware	
@@ -895,6 +908,7 @@ page layout
 page orientation	
 page view	
 pan	
+parallel	
 parallel port	
 parameter	
 parity	
@@ -909,6 +923,8 @@ passphrase
 password	
 paste	
 path	
+pattern	
+patterns	
 payload	
 pc	
 pcb	
@@ -1119,6 +1135,7 @@ serial number
 serial port	
 serp	
 server	
+serverless	
 service pack	
 servlet	
 session	
@@ -1306,8 +1323,8 @@ tweak
 tweet	
 twitter	
 typecasting	
-typeface
-tyscript
+typeface	
+typescript	
 u	
 uat	
 uddi	

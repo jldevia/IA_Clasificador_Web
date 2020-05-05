@@ -23,7 +23,7 @@ module.exports.getTerms = function getTerms(data, sep) {
         let i = dictionary.indexOf(element + '\t');
 
         if (i !== -1) {
-            if (dictionary[i].match((/[+\-/_]/))) {
+            if (dictionary[i].match((/[+\-/_.*]/))) {
                 result.push("'" + dictionary[i].trim() + "'");
             } else {
                 result.push(dictionary[i].trim());

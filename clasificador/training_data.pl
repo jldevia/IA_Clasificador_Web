@@ -37,3 +37,12 @@ case([cobol,it],[software,devops,java,database,mobile,data,cloud,cobol,mainframe
 case([web,components],[software,devops,java,web,database,mobile,data,cloud,components,javascript,app,mvc,interface],[web,components,ui,application],web_development).
 case([tutorial,firebase,hosting,web],[software,devops,java,web,database,mobile,data,cloud,firebase,applications,tutorial,hosting],[hosting,application,firebase],web_development).
 case([css,flexbox,web],[software,devops,java,web,database,mobile,data,cloud,css,flexbox],[css,flexbox],web_development).
+case(['node.js',tutorial],[],[laptop,'node.js','back-end',tutorial,smartphone],web_development).
+case([hooks,typescript,tutorial],[],[hooks,can],web_development).
+case([model],[],[models],ia).
+case([ai,machine,learning],[],[ai,models,can,machine,learning],ia).
+case([secure,rest,api,'node.js'],[],[rest,apis,web,developer,platform],web_development).
+case([angular,app],[],[application,angular,cli,firebase,'back-end'],web_development).
+case([javascript,design,patterns],[],[design,patterns,software,javascript],programming).
+case([mobile,web,applications,firebase],[],[firebase,can,it,mobile,web],cloud).
+case([golang,go],[],[oop,go,patterns,can,golang],programming).

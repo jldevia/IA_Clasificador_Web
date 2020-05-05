@@ -29,3 +29,12 @@ https://dzone.com/articles/i-took-a-cobol-course-and-i-liked-it
 https://dzone.com/articles/state-transitions-with-web-components
 https://dzone.com/articles/a-tutorial-on-firebase-hosting
 https://dzone.com/articles/css-flexbox-basics-part-1
+https://www.toptal.com/express-js/remote-control-nodejs-back-end-tutorial
+https://www.toptal.com/react/react-hooks-typescript-example
+https://www.toptal.com/deep-learning/exploring-pre-trained-models
+https://www.toptal.com/machine-learning/monotonic-ai-models
+https://www.toptal.com/nodejs/secure-rest-api-in-nodejs
+https://www.toptal.com/angular/angular-5-tutorial
+https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+https://www.toptal.com/google/firebase-serverless-mobile-and-web-apps
+https://www.toptal.com/go/golang-oop-tutorial
