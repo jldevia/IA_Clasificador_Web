@@ -23,7 +23,9 @@ router.get('/training', (req, res) => {
 	});
 });
 
-router.post('/do', [check('inputUrl').isURL().withMessage('URL inválida.')], (req, res) => {
+router.post('/do', [check('inputUrl').notEmpty().withMessage('Debe ingresar una URL.'),
+check('inputUrl').isURL().withMessage('URL inválida.'),
+], (req, res) => {
 	const errors = validationResult(req);
 
 	if (!errors.isEmpty()) {
@@ -73,7 +75,9 @@ router.post('/do', [check('inputUrl').isURL().withMessage('URL inválida.')], (r
 
 });
 
-router.post('/doTraining', [check('inputUrl').isURL().withMessage('URL inválida.')], (req, res) => {
+router.post('/doTraining', [check('inputUrl').notEmpty().withMessage('Debe ingresar una URL.'),
+check('inputUrl').isURL().withMessage('URL inválida.')
+], (req, res) => {
 
 	let url = req.body.inputUrl;
 
