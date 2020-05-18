@@ -1,3 +1,4 @@
+2.0	
 3d printer	
 3g	
 404 error	
@@ -39,6 +40,7 @@ alexa
 algorithm	
 alpha software	
 alu	
+amazon	
 analog	
 android	
 animated gif	
@@ -135,6 +137,7 @@ blog
 blu-ray	
 bluetooth	
 bmp	
+bosque	
 bookmark	
 boolean	
 boot	
@@ -310,6 +313,7 @@ del.icio.us
 delete	
 denary	
 denial of service	
+deno	
 deprecated	
 design	
 desk checking	
@@ -317,6 +321,7 @@ desktop
 desktop computer	
 desktop publishing	
 developer	
+development	
 devops	
 dfs	
 dhcp	
@@ -401,7 +406,7 @@ edr
 edutainment	
 egpu	
 eide	
-el capitan	
+elastic	
 email	
 email address	
 email bomb	
@@ -412,6 +417,7 @@ encoding
 encryption	
 end user	
 endianness	
+engine	
 endpoint	
 enterprise	
 enum	
@@ -513,6 +519,7 @@ gigahertz
 gigo	
 gitops	
 gis	
+glue	
 gnu	
 gnutella	
 go	
@@ -826,7 +833,7 @@ motion tween
 mount	
 mountain lion	
 mouse	
-mouse pad	
+mozilla	
 mp3	
 mpeg	
 mtu	
@@ -922,11 +929,10 @@ output device
 overclocking	
 overwrite
 p2p	
+pack	
 packet	
-page fault	
-page layout	
-page orientation	
-page view	
+page	
+pad	
 pan	
 parallel	
 parallel port	
@@ -1009,6 +1015,7 @@ pps
 pptp	
 pram	
 prebinding	
+predicting	
 pretest	
 primary key	
 primary memory	
@@ -1033,6 +1040,7 @@ public domain
 pum	
 pup	
 push	
+publishing	
 python	
 qbe	
 qr code	
@@ -1089,6 +1097,7 @@ retina display
 rfid	
 rgb	
 ribbon	
+ring	
 rich text	
 right click	
 rip	
@@ -1143,7 +1152,7 @@ sdlc
 sdram	
 sds	
 sdsl	
-search engine	
+search	
 secondary memory	
 secondary storage	
 sector	
@@ -1158,7 +1167,8 @@ serial port
 serp	
 server	
 serverless	
-service pack	
+service	
+services	
 servlet	
 session	
 set	
@@ -1296,6 +1306,7 @@ teleconference
 telehealth	
 telnet	
 template	
+tests	
 testing	
 tester	
 testers	
@@ -1362,6 +1373,7 @@ uefi
 ugc	
 ui	
 uicc	
+ultrawarm	
 ultra dma	
 ultrabook	
 uml	
@@ -1442,18 +1454,7 @@ waveform
 wavelength	
 wddm	
 web	
-web 2.0	
-web application	
-web beacon	
-web browser	
-web design	
-web development	
-web host	
-web page	
-web publishing	
-web ring	
-web server	
-web service	
+webassembly	
 webcam	
 webhook	
 webmail	

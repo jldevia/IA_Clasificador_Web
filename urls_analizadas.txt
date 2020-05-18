@@ -63,3 +63,15 @@ https://dzone.com/articles/transition-of-siris-voice-from-robotic-to-human-no
 https://dzone.com/articles/how-to-harness-the-power-of-serverless-with-azure-1
 https://dzone.com/articles/automate-spring-boot-app-deployment-with-gitlab-ci
 https://dzone.com/articles/iot-and-nodejs-how-to-catch-the-opportunity
+https://sdtimes.com/cloud/microsoft-provides-insight-into-its-programming-language-bosque/
+https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-deno/
+https://sdtimes.com/softwaredev/sd-times-news-digest-nvidia-to-accelerate-apache-spark-google-cloud-training-and-mariadb-skysql-power-tier/
+https://sdtimes.com/data/staying-in-sync-with-your-data/
+https://www.infoq.com/news/2020/05/webassembly-security-nanoprocess/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design
+https://www.infoq.com/news/2020/05/aws-elasticsearch-ultrawarm-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_ai-ml-data-eng&itm_medium=link&itm_campaign=ai-ml-data-eng
+https://www.infoq.com/news/2020/05/predicting-failing-tests/?useSponsorshipSuggestions=true&itm_source=presentations_about_ai-ml-data-eng&itm_medium=link&itm_campaign=ai-ml-data-eng
+https://www.infoq.com/news/2020/05/cloud-spanner-new-features/?useSponsorshipSuggestions=true&itm_source=presentations_about_ai-ml-data-eng&itm_medium=link&itm_campaign=ai-ml-data-eng
+https://www.infoq.com/news/2020/05/deepmind-ai-atari/?useSponsorshipSuggestions=true&itm_source=presentations_about_ai-ml-data-eng&itm_medium=link&itm_campaign=ai-ml-data-eng
+https://www.infoq.com/news/2020/05/mozilla-launches-hubs-cloud/?useSponsorshipSuggestions=true
+https://www.infoq.com/articles/encryption-defense-native-browser-apps/?useSponsorshipSuggestions=true&itm_source=articles_about_mobile&itm_medium=link&itm_campaign=mobile
+https://www.infoq.com/articles/predictive-maintenance-industrial-iot/?useSponsorshipSuggestions=true&itm_source=articles_about_mobile&itm_medium=link&itm_campaign=mobile
