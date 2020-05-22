@@ -1,3 +1,4 @@
+.net	
 2.0	
 3d printer	
 3g	
@@ -41,6 +42,7 @@ algorithm
 alpha software	
 alu	
 amazon	
+analytics	
 analog	
 android	
 animated gif	
@@ -117,7 +119,7 @@ bayesian
 beans	
 bcc	
 beta software	
-big data	
+big	
 binary	
 bing	
 biometrics	
@@ -162,13 +164,14 @@ buffer
 bug	
 burn	
 bus	
+button	
+buttons	
 byte	
 bytecode	
 bézier curve
 c#	
 c
 c++	
-cable management	
 cable modem	
 cache	
 cad	
@@ -178,6 +181,7 @@ caps lock
 captcha	
 card	
 card reader	
+ci	
 cc	
 ccd	
 cd	
@@ -239,7 +243,6 @@ compression
 computer	
 computing	
 computer ethics	
-computer science	
 configuration	
 console	
 constant	
@@ -252,7 +255,7 @@ convolutional
 cookie	
 copy	
 copyright	
-copyright infringement	
+couchbase	
 cpa	
 cpc	
 cpl	
@@ -285,11 +288,6 @@ dark mode
 das	
 dashboard	
 data	
-data management	
-data mining	
-data science	
-data transfer rate	
-data type	
 database	
 datagram	
 daw	
@@ -321,6 +319,7 @@ desktop
 desktop computer	
 desktop publishing	
 developer	
+developers	
 development	
 devops	
 dfs	
@@ -610,6 +609,7 @@ ids
 ieee	
 iframe	
 igp	
+ignite	
 iis	
 illegal operation	
 im	
@@ -644,7 +644,6 @@ interface
 interlaced	
 internal hard drive	
 internet	
-internet of things	
 internic	
 interpreter	
 interrupt	
@@ -726,6 +725,7 @@ leading
 leaf	
 learning	
 led	
+leds	
 leet	
 left-click	
 leopard	
@@ -768,6 +768,7 @@ mamp
 man	
 manet	
 margin	
+mariadb	
 markup language	
 mashup	
 matrix	
@@ -791,6 +792,7 @@ memory bank
 memory leak	
 memory module	
 memory stick	
+management	
 menu bar	
 meta search engine	
 meta tag	
@@ -804,12 +806,14 @@ microkernel
 micron	
 microphone	
 microsoft	
+microservices	
 middleware	
 midi	
 mini dv	
 minicomputer	
 minification	
 minimize	
+mining	
 minisite	
 mips	
 mirror	
@@ -848,7 +852,7 @@ multitasking
 multithreading	
 mvc	
 myspace	
-mysql
+mysql	
 n-key rollover	
 name server	
 namespace	
@@ -895,6 +899,7 @@ num lock
 nvram	
 nybble
 oasis	
+oauth	
 object	
 ocr	
 odbc	
@@ -1137,6 +1142,7 @@ scalable
 scanner	
 scareware	
 schema	
+science	
 scraping	
 screen burn	
 screen tearing	
@@ -1161,6 +1167,7 @@ securing
 secure	
 seed	
 semaphore	
+sentry.io	
 seo	
 serial number	
 serial port	
@@ -1323,6 +1330,7 @@ thermistor
 thick client	
 thin client	
 third party	
+things	
 thread
 threaded	
 throughput	
@@ -1334,6 +1342,7 @@ tiger
 title bar	
 toggle key	
 token	
+tokens	
 topology	
 toolbar	
 toolchain	
@@ -1342,6 +1351,7 @@ torrent
 toslink	
 touchpad	
 touchscreen	
+travis	
 traceroute	
 trackback	
 trackball	
@@ -1400,7 +1410,8 @@ user-friendly
 username	
 utf	
 utility	
-uwp
+uwp	
+v8	
 vaporware	
 variable	
 vci	
@@ -1422,8 +1433,8 @@ virtual memory
 virtual reality	
 virtualization	
 virus	
-virus definition	
-visual basic	
+visual	
+visitor	
 vlan	
 vlb	
 vle	

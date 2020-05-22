@@ -9,5 +9,4 @@ app.use(express.urlencoded());
 app.use('/', routers);
 app.use(express.static('public'));
 
-app.listen(port, () => console.log(`App listening on port ${port}!`));
-
+app.listen(port, () => console.log(`App ejecutandose en el puerto ${port}!`));
