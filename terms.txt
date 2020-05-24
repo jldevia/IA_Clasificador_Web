@@ -39,6 +39,7 @@ ajax
 alert box	
 alexa	
 algorithm	
+algorithms	
 alpha software	
 alu	
 amazon	
@@ -67,6 +68,7 @@ architecture
 archive	
 archive bit	
 archlinux	
+arduino	
 arp	
 array	
 artificial	
@@ -88,6 +90,7 @@ authentication
 autocomplete	
 autocorrect	
 autofill	
+automated	
 autoresponder	
 autowired	
 avatar	
@@ -101,6 +104,7 @@ back-end
 backlink	
 backside bus	
 backup	
+ballerina	
 bandwidth	
 banner ad	
 barcraft	
@@ -125,6 +129,7 @@ bing
 biometrics	
 bios	
 bit	
+bitbucket	
 bitcoin	
 bitmap	
 bitrate	
@@ -249,13 +254,15 @@ constant
 container	
 contextual menu	
 continuous	
-control panel	
-controller card	
+control	
+contracts	
+controller	
 convolutional	
 cookie	
 copy	
 copyright	
 couchbase	
+cordova	
 cpa	
 cpc	
 cpl	
@@ -413,6 +420,7 @@ emoji
 emoticon	
 emulation	
 encoding	
+encrypted	
 encryption	
 end user	
 endianness	
@@ -422,6 +430,7 @@ enterprise
 enum	
 eol	
 eps	
+ethereum	
 ergonomics	
 esata	
 escape key	
@@ -509,6 +518,7 @@ garbage collection
 gateway	
 gbps	
 gdpr	
+genetic	
 gibibyte	
 gif	
 gigabit	
@@ -586,6 +596,7 @@ hsf
 html	
 html5	
 http	
+http/3	
 https	
 hub	
 hyper-threading	
@@ -595,7 +606,7 @@ hypertext
 hypervisor
 i/o	
 i/o address	
-ibm compatible	
+ibm	
 icann	
 icf	
 icloud	
@@ -730,6 +741,7 @@ leet
 left-click	
 leopard	
 lfn	
+library	
 lifo	
 lightning	
 link	
@@ -746,6 +758,7 @@ logic
 logic error	
 logic gate	
 login	
+lombok	
 long	
 loop	
 lossless	
@@ -1065,9 +1078,10 @@ raw data
 raw file	
 rdbms	
 rdf	
-rdram
-react
-reactjs
+rdram	
+react	
+reactive	
+reactjs	
 react.js	
 read-only	
 readme	
@@ -1079,6 +1093,7 @@ recursion
 recursive function	
 recycle bin	
 redundancy	
+redux	
 refresh	
 refresh rate	
 register	
@@ -1127,7 +1142,9 @@ rtmp
 ruby	
 runtime	
 runtime error	
-rup
+rup	
+rxjs	
+rxjava	
 saas	
 safe mode	
 samba	
@@ -1226,6 +1243,7 @@ soft copy
 soft token	
 software	
 solid state	
+solidity	
 sound card	
 source code	
 southbridge	
@@ -1340,12 +1358,14 @@ thyristor
 tiff	
 tiger	
 title bar	
+tls	
 toggle key	
 token	
 tokens	
 topology	
 toolbar	
 toolchain	
+toolkit	
 tooltip	
 torrent	
 toslink	
@@ -1418,9 +1438,8 @@ vci
 vdsl	
 vdu	
 vector	
-vector graphic	
 veronica	
-version control	
+version	
 vertical market software	
 vfat	
 vga	
@@ -1470,6 +1489,7 @@ webcam
 webhook	
 webmail	
 webmaster	
+webpack	
 website	
 webclient	
 wep	
@@ -1515,6 +1535,7 @@ www
 wysiwyg
 x86	
 xaml	
+xamarin	
 xhtml	
 xml	
 xmp	
